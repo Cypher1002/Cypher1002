@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front-end Skills mainly React<br><br>🌱 I’m currently learning React and C++ based DSA<br><br>👯 I’m looking to collaborate on Front-end Projects<br><br>🤝 I’m looking for help with Javascript and React based projects<br><br>👨‍💻 All of my projects are available at <br><br>💬 Ask me about HTML, CSS, Javascipt<br><br>📫 How to reach me mehuldarshni42@gmail.com<br><br>⚡ Fun fact I observe things keenly
+🔭 I’m currently working on Front-end Skills mainly React<br>🌱 I’m currently learning React and C++ based DSA<br>👯 I’m looking to collaborate on Front-end Projects<br>🤝 I’m looking for help with Javascript and React based projects<br>👨‍💻 All of my projects are available at <br>💬 Ask me about HTML, CSS, Javascipt<br>📫 How to reach me mehuldarshni42@gmail.com<br>⚡ Fun fact I observe things keenly <br> Actively looking for frontend roles and intern positions <br>
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Mehul_10_D)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Cypher1002&icon=0&color=0)](https://visitcount.itsvg.in)
