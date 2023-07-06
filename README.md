@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on Front-end Skills mainly React<br>🌱  currently learning React and C++ based DSA<br>👯 looking to collaborate on Front-end Projects<br>🤝 looking for help with Javascript and React based projects<br>👨‍💻 All of my projects are available at <br>💬 Ask me about HTML, CSS, Javascipt<br>📫  reach me out via email: mehuldarshni42@gmail.com<br>⚡ Fun fact I observe things keenly <br> Actively looking for frontend roles and intern positions <br>
+🔭 Currently working on Front-end Skills mainly React<br>🌱  currently learning React and C++ based DSA<br>👯 looking to collaborate on Front-end Projects<br>🤝 looking for help with Javascript and React based projects<br>👨‍💻 All of my projects are available at <br>💬 Ask me about HTML, CSS, Javascipt<br>📫  reach me out via email: mehuldarshni42@gmail.com<br>⚡ Fun fact I observe things keenly <br> Actively looking for frontend roles and intern positions 
 
 
 ## 🌐 Socials:
